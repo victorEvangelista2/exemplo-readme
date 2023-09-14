@@ -1,7 +1,8 @@
-# projeto para escrita README
+# Projeto de documentação do arquivo README
 
 ## Descrição
-## Introdução 
+ - Neste projeto documentamos o arquivo README de maneira correta, e de uma forma que 
+## Introdução
 ## Tecnologia utilizada
 ## Fontes consultadas
 ## Autores 
