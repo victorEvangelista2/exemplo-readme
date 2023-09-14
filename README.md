@@ -22,5 +22,5 @@
 ## Tecnologia utilizada 👨‍💻
  - GitHub, Google, Vs Code, 
 ## Fontes consultadas 🔍
- - [Alura](#https://www.alura.com.br/artigos/escrever-bom-readme)
- - [Rocketseat](#https://blog.rocketseat.com.br/como-fazer-um-bom-readme/)
+ [Alura](#https://www.alura.com.br/artigos/escrever-bom-readme)
+ [Rocketseat](#https://blog.rocketseat.com.br/como-fazer-um-bom-readme/)
